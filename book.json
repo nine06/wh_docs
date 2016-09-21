@@ -1,0 +1,24 @@
+{
+ "gitbook": "2.6.7",
+ "title": "DataHub 帮助文档",
+ "description": "DataHub 帮助文档",
+ "styles": {
+ "website": "styles/website.css",
+ "ebook": "styles/ebook.css",
+ "pdf": "styles/pdf.css",
+ "mobi": "styles/mobi.css",
+ "epub": "styles/epub.css"
+ },
+ "plugins": [
+ "-search",
+ "fontsettings",
+ "search-pro",
+ "highlight"
+ ],
+ "pluginsConfig": {
+ "search-pro": {
+ "cutWordLib": "nodejieba",
+ "defineWord" : ["Gitbook Use"]
+ }
+ }
+}
