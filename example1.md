@@ -10,7 +10,7 @@
 
 ###第二步 通过longin命令登录Client端
 #####输入
-	datahub login
+	datahub login www.cjbigdata.com
 #####输出	  
 	login as: ********@*******.com
 	password: ******
