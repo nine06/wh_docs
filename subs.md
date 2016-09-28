@@ -22,7 +22,7 @@
 其中 status 为 normal 状态的 tag 能正常下载， unnormal 状态的 tag 需数据服务提供方修复该 tag 后方可正常下载。   	
 #####例子   
 	bash-3.2#  datahub subs Location_information/Cell03  
-	REPOSITORY/ITEM:TAG                           UPDATETIME                            COMMENT                STATUS     
+	REPOSITORY/ITEM:TAG                           UPDATETIME                            COMMENT            STATUS     
     Location_information/Cell03:gt20160220        2016-02-23 11:41:19|5个月前         Size:166.12 MB        NORMAL       
 	Location_information/Cell03:gt20160221        2016-02-23 10:43:22|5个月前         Size:599.69 KB        NORMAL     
 	Location_information/Cell03:gt20160223        2016-04-11 10:51:58|3个月前         Size:147.89 MB        NORMAL     
@@ -33,4 +33,3 @@
 	Location_information/Cell03:gt20160228        2016-04-11 10:51:59|3个月前         Size:174.44 MB        NORMAL     
 	Location_information/Cell03:gt20160229        2016-04-11 10:51:59|3个月前         Size:179.45 MB        NORMAL     
 	Location_information/Cell03:gt20160301        2016-04-11 10:51:59|3个月前         Size:173.52 MB        NORMAL   	  
-	。。。。。。
