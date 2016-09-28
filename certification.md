@@ -3,7 +3,7 @@
 <hr style=" border:4px solid #A9A9A9;" />
 
 ###第一步 成为注册用户
-在 广数DataHub 网站 ( http://www.gzbdex.com )通过邮箱注册且激活后，成为注册用户。
+在长江大数据交易中心网站 ( www.cjbigdata.com )通过邮箱注册且激活后，成为注册用户。
 
 #####数据需求方：
 
