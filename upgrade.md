@@ -22,7 +22,7 @@ service-cj@cjbigdata.com。
 
 ![](img/verified_member.png)
 
-###第三步 根据提示发送您的升级需求到 service@gzbdex.com，我们会在三个工作日内回复您。
+###第三步 根据提示发送您的升级需求到 service-cj@cjbigdata.com，我们会在三个工作日内回复您。
 
 ![](img/upgrade_mail.png)
 
