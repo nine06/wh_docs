@@ -1,11 +1,11 @@
 ##7.2 应用场景一 ： 发布数据
 <hr style=" border:4px solid #A9A9A9;" />
-下面介绍从 广数DataHub 网站发布名为 datahubrepo1 的数据主题，在客户端发布名为 datahubitem1 的数据集、名为 datahubtag1 的数据包。
+下面介绍从网站发布名为 datahubrepo1 的数据主题，在客户端发布名为 datahubitem1 的数据集、名为 datahubtag1 的数据包。
 
-###第一步 在 广数DataHub 网站发布名为 datahubrepo1 的数据主题
+###第一步 在 长江大数据交易中心 网站发布名为 datahubrepo1 的数据主题
 在网站上发布名为 datahubrepo1 的数据主题  
 
-* 在 广数DataHub 网站（ http://www.gzbdex.com ）上我的发布 中查看，确认 datahubrepo1 的发布状态。  
+* 在网站上“我的发布”中查看，确认 datahubrepo1 的发布状态。  
 
 ###第二步 通过 longin 命令登录 Client 端
 #####输入
