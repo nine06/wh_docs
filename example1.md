@@ -14,7 +14,7 @@
 #####输出	  
 	login as: ********@*******.com
 	password: ******
-	DataHub : Successed in publishing.
+	DataHub : login success.
   
 ###第三步 通过客户端查看有效订单
 在客户端通过 subs 命令查看“正在生效中”的订单，且能查看数据的在线状态（ status ）。  对于 online 状态的数据，可以立即进行下载，对于 offline 状态的数据，需数据服务提供方的数据提供服务启动后方能下载。  
