@@ -1,6 +1,6 @@
 ##6. Client端命令
 <hr style=" border:4px solid #A9A9A9;" /> 
-客户端共包含10个常用命令。目前有 Linux 、 window 、 os 三个操作系统版本客户端，具体获取方式见 [www.cjbigdata.com/clientDownload](www.cjbigdata.com/clientDownload).    
+客户端共包含10个常用命令。目前有 Linux 、 window 、 os 三个操作系统版本客户端，具体获取方式见 [www.cjbigdata.com/clientDownload](www.cjbigdata.com/clientDownload)。    
 <br></br>
 DataHub 的数据结构由数据主题（ Repository ,简称 repo ）、数据项（ DataItem ，简称 item ）、数据包（ Tag ）三级结构构成，数据主题在 DataHub 网站创建，数据项、数据包在 Client 端发布。     
  
