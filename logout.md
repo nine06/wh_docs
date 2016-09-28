@@ -10,6 +10,4 @@
     %msg       	
 #####例子  
     bash-3.2# datahub logout
-	login as: gongjing5@asiainfo.com
-	password: ******
 	DataHub : logout success.
