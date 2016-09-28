@@ -1,4 +1,4 @@
-# 广数DataHub
+# 长江大数据交易中心
 <hr style=" height:12px;border:none;border-top:4px solid #A9A9A9;" />
 
 - 广数DataHub是数据链接平台,是数据链接的工具。
