@@ -1,6 +1,6 @@
 ##6.9 subs  订购管理   
 <hr style=" border:4px solid #A9A9A9;" />     
-用户在 DataHub 网站（ hub.dataos.io ）订购数据后，可登录客户端，通过 subs 命令在客户端查看已经订购的数据。
+用户在网站（ www.cjbigdata.com ）订购数据后，可登录客户端，通过 subs 命令在客户端查看已经订购的数据。
 ###6.9.1 查看所有订购的 repo/item
 #####输入
 	datahub subs
