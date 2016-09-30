@@ -8,7 +8,7 @@
 * 在用户中心->我的订购中查看订单、以及订单状态，对“正在生效中”状态的订单，可通过客户端下载数据包（ Tag ）。   
 
 
-###第二步 通过longin命令登录Client端
+###第二步 通过login命令登录Client端
 #####输入
 	datahub login www.cjbigdata.com
 #####输出	  

@@ -7,7 +7,7 @@
 
 * 在网站上“我的发布”中查看，确认 datahubrepo1 的发布状态。  
 
-###第二步 通过 longin 命令登录 Client 端
+###第二步 通过 login 命令登录 Client 端
 #####输入
 	datahub login www.cjbigdata.com
 #####输出	  
