@@ -28,7 +28,7 @@
 	Tourism         
 	。。。。。。
 
-###6.8.2 查看某个免费数据主题（ repo ）下的数据集（ ietm ）  
+###6.8.2 查看某个免费数据主题（ repo ）下的数据集（ item ）  
 登录前，通过 repo 命令查看某个免费数据主题下的数据集。
 #####输入
 	datahub repo $REPOSITORY
@@ -57,7 +57,7 @@
 	Mobile_APP      
 	datahubrepo1      
 
-###6.8.4 查看具备写权限数据主题（ repo ）下的数据集（ ietm ）  
+###6.8.4 查看具备写权限数据主题（ repo ）下的数据集（ item ）  
 登录后，通过 repo 命令查看具备写权限数据主题下的数据集。
 #####输入
 	datahub repo $REPOSITORY
